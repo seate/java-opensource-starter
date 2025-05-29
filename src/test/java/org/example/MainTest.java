@@ -16,8 +16,8 @@ class MainTest {
 	void methodTest() {
 		Main instance = new Main();
 
-		assertTrue(instance.method(false));
-		assertFalse(instance.method(true));
+		assertTrue(instance.method(true));
+		assertFalse(instance.method(false));
 	}
 
 }
