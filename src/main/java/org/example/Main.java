@@ -11,6 +11,6 @@ public class Main {
 	 * @return You must document return value
 	 */
 	public Boolean method(Boolean aBoolean) {
-		return !aBoolean;
+		return aBoolean;
 	}
 }
