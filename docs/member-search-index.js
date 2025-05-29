@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"org.example","c":"Main","l":"Main()","u":"%3Cinit%3E()"},{"p":"org.example","c":"Main","l":"method(Boolean)","u":"method(java.lang.Boolean)"}];updateSearchResults();
